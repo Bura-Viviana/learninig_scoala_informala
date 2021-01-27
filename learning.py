@@ -9,3 +9,4 @@ print(decreasing_nums)
 print(increasing_nums[1::2])
 print(increasing_nums[::2])
 print(increasing_nums[2::3])
+
